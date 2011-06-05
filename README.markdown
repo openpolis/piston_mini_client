@@ -1,5 +1,5 @@
 `piston_mini-client` is a small wrapper to the httplib2, allowing fast development
-of python applications or modules that uses the REST API's produced through django-piston.
+of python applications or modules using the REST API's produced through django-piston.
 
 This repository is a port to github of the 
 [`piston_mini_client`](https://launchpad.net/piston-mini-client) library hosted on launchpad.
